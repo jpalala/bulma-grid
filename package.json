@@ -1,14 +1,14 @@
 {
-  "name": "bulma-scss",
+  "name": "bulma-grid",
   "version": "0.9.3",
-  "description": "The Bulma CSS Framework files converted to SCSS syntax",
+  "description": "Just the bulma grid",
   "main": "bulma.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/j1mc/bulma-scss.git"
+    "url": "https://github.com/jpalala/bulma-grid.git"
   },
   "keywords": [
     "bulma",
@@ -16,10 +16,10 @@
     "scss",
     "flexbox"
   ],
-  "author": "Jim Campbell",
+  "author": "Joe Palala <jose.palala@live.com>"
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/j1mc/bulma-scss/issues"
+    "url": "https://github.com/jpalala/bulma-grid/issues"
   },
-  "homepage": "https://github.com/j1mc/bulma-scss#readme"
+  "homepage": "https://github.com/jpalala/bulma-grid#readme"
 }
