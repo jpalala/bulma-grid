@@ -1,6 +1,6 @@
 {
   "name": "bulma-grid",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "description": "Just the bulma grid",
   "main": "bulma.scss",
   "scripts": {
